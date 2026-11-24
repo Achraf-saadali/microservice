@@ -1,0 +1,1 @@
+{"realm":"spring-boot-microservices-realm","enabled":true,"clients":[{"clientId":"spring-cloud-client","enabled":true,"publicClient":false,"clientAuthenticatorType":"client-secret","secret":"spring-cloud-secret","serviceAccountsEnabled":true,"standardFlowEnabled":false,"directAccessGrantsEnabled":false,"protocol":"openid-connect"}]}
